@@ -29,7 +29,7 @@ function Header() {
       <div className="flex items-center">
         <Link
           to={"/home"}
-          className="text-font font-bold text-2xl mr-8 hover:text-secondary transition duration-300"
+          className="text-font font-bold text-2xl mr-8 hover:text-accent transition duration-300"
         >
           fitaifearless
         </Link>
